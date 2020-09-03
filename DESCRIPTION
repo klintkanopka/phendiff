@@ -3,7 +3,7 @@ Type: Package
 Title: Phenotype Differences Estimator
 Version: 0.1.0
 Author: Klint Kanopka, Sam Trejo
-Maintainer: Klint Kanopka <kkanopka at stanford>
+Maintainer: Klint Kanopka <kkanopka@stanford.edu>
 Description: Estimate a phenotype differences model
     If you don't know what that means yet, that's ok
 License: GPL v3.0
